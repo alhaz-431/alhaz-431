@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Mohammad Alhaz! 👋
 
-<!--
-**alhaz-431/alhaz-431** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+I am a passionate Full-Stack & Backend Developer. I love designing robust databases, building scalable RESTful APIs, and creating clean user experiences.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- **Frontend:** Next.js (App Router), TypeScript, Tailwind CSS
+- **Backend:** Node.js, Express
+- **Database & ORM:** PostgreSQL, Prisma ORM
+- **Tools:** Cursor, Postman, Git, GitHub, pgAdmin 4
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats
+![Alhaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=alhaz-431&show_icons=true&theme=radial)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alhaz-431&layout=compact&theme=radial)
